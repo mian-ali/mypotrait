@@ -1,4 +1,4 @@
-# mypotrait
+# My Potrait
 
 - created a css potrait form of my self  just a try
 
